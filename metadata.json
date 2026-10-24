@@ -1,0 +1,6 @@
+{
+  "name": "Job Search Command Center",
+  "description": "A private, local-first job application command center for tracking roles, auditing resumes for screening parsers, tailoring bullet points without fabrication, and logging interview debriefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
